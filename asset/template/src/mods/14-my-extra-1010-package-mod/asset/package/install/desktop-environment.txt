@@ -21,6 +21,7 @@ nemo
 mate-terminal
 lxterminal
 sakura
+tilix
 
 
 pluma
