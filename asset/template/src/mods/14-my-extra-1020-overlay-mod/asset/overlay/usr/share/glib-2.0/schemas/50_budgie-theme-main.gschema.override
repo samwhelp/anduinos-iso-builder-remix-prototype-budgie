@@ -1,10 +1,10 @@
 
 
-[org.gnome.desktop.wm.preferences]
+[org.gnome.desktop.wm.preferences:Budgie]
 theme='Fluent-round-Dark'
 
 
-[org.gnome.desktop.interface]
+[org.gnome.desktop.interface:Budgie]
 cursor-theme='Fluent-dark-cursors'
 cursor-size=24
 gtk-key-theme='Default'
