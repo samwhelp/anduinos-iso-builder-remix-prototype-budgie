@@ -26,3 +26,7 @@ clock-format='24h'
 clock-show-seconds=true
 clock-show-weekday=true
 
+
+[org.gnome.mutter]
+overlay-key=''
+#overlay-key='Super_L'
