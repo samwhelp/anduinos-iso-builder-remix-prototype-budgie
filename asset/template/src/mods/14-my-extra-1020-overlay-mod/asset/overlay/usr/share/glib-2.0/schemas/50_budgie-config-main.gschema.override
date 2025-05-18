@@ -1,6 +1,10 @@
 
 
-[org.gnome.desktop.wm.preferences]
+[com.solus-project.budgie-wm]
+desktop-type-override='nemo'
+
+
+[org.gnome.desktop.wm.preferences:Budgie]
 action-double-click-titlebar='toggle-maximize'
 action-middle-click-titlebar='toggle-shade'
 action-right-click-titlebar='menu'
@@ -12,21 +16,16 @@ focus-mode='click'
 focus-new-windows='smart'
 
 
-[org.gnome.desktop.peripherals.keyboard]
+[org.gnome.desktop.peripherals.keyboard:Budgie]
 numlock-state=false
 remember-numlock-state=true
 
 
-[org.gnome.desktop.sound]
+[org.gnome.desktop.sound:Budgie]
 event-sounds=false
 
 
-[org.gnome.desktop.interface]
+[org.gnome.desktop.interface:Budgie]
 clock-format='24h'
 clock-show-seconds=true
 clock-show-weekday=true
-
-
-[org.gnome.mutter]
-overlay-key=''
-#overlay-key='Super_L'

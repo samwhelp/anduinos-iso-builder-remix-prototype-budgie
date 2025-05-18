@@ -10,7 +10,7 @@ take-region-screenshot=['<Ctrl>Print']
 take-window-screenshot=['<Super>Print']
 
 
-[org.gnome.desktop.wm.keybindings]
+[org.gnome.desktop.wm.keybindings:Budgie]
 begin-move=['<Super>e']
 begin-resize=['<Super>r']
 close=['<Super>q']
@@ -66,20 +66,21 @@ unmaximize=['<Control><Super>Down']
 
 
 
-[org.gnome.mutter]
+[org.gnome.mutter:Budgie]
+#overlay-key='Super_L'
 overlay-key=''
 
 
-[org.gnome.mutter.keybindings]
+[org.gnome.mutter.keybindings:Budgie]
 toggle-tiled-left=['<Control><Super>Left']
 toggle-tiled-right=['<Control><Super>Right']
 
 
-[org.gnome.mutter.wayland.keybindings]
+[org.gnome.mutter.wayland.keybindings:Budgie]
 restore-shortcuts=['']
 
 
 
 
-[org.gnome.settings-daemon.plugins.media-keys]
+[org.gnome.settings-daemon.plugins.media-keys:Budgie]
 screensaver=['<Control><Alt>x']
