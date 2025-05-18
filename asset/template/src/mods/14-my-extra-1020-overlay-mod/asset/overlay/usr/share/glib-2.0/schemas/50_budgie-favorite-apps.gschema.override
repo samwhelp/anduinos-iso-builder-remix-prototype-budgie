@@ -7,7 +7,7 @@
 ##
 ##
 ## ``` sh
-## gsettings set org.gnome.desktop.default-applications.terminal exec "'mate-terminal'"
+## gsettings set org.gnome.desktop.default-applications.terminal exec "'sakura'"
 ##
 ## gsettings set org.gnome.desktop.default-applications.terminal exec-arg ''
 ## ```
@@ -48,15 +48,15 @@
 
 
 [org.mate.applications-terminal]
-exec='mate-terminal'
+exec='sakura'
 exec-arg=''
 
 
 [org.gnome.desktop.default-applications.terminal]
-exec='mate-terminal'
+exec='sakura'
 exec-arg=''
 
 
 [org.cinnamon.desktop.default-applications.terminal]
-exec='mate-terminal'
+exec='sakura'
 exec-arg=''
