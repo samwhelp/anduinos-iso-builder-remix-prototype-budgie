@@ -16,6 +16,7 @@ budgie-desktop-environment
 
 
 budgie-network-manager-applet
+budgie-appmenu-applet
 
 
 nemo
