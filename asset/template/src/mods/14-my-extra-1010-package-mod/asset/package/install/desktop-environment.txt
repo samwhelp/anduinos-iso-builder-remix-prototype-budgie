@@ -17,6 +17,11 @@ budgie-desktop-environment
 
 budgie-network-manager-applet
 budgie-appmenu-applet
+budgie-brightness-controller-applet
+
+
+#budgie-applications-menu-applet
+#budgie-countdown-applet
 
 
 nemo
